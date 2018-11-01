@@ -3,5 +3,5 @@ ARTS, which sponsor by chenghao, means the promise of completing an Algorithm, a
 
 **Algorithm**: complete an algorithm in leetcode.  
 **Review**: Read and evaluate at least one English article.  
-**Tips**: Learn at least on Tech tips.  
-**Share**: Share on technical article with thoughts and opinion.  
+**Tips**: Learn at least one Tech tips.  
+**Share**: Share one technical article with thoughts and opinion.  

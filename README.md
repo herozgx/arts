@@ -1,4 +1,4 @@
-# arts
+# ARTS
 ARTS, which sponsor by chenghao, means the promise of completing an Algorithm, a Review, a Tip and a Share every week, and persist it for a year.
 
 Algorithm: complete an algorithm in leetcode.

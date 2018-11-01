@@ -5,4 +5,4 @@ This artical is not an introduction of rsync userage which can be easily found f
 $ man rsync
 ```
 We knew that rsync is an increment transmission tool which is very efficient, and what we care about here is what happens underneath 
-when rsync transfer a file, and how does it do the increment transfer background
+when rsync transfer a file, and how does it complete the increment transmission on the background
